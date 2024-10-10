@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: bijit5/go-web-app
   pullPolicy: IfNotPresent
-  tag: "10128759652"
+  tag: "11280345868"
 
 
 
